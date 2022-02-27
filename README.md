@@ -22,9 +22,10 @@ Application is chosen over a website because an application nowadays is easy to 
   https://www.loom.com/share/1b34757499584bd6b4ac2d94234f78ee
 
 </h3>
-
+<h1> The Looms video which I provided earlier was having some issues with playing and all so I recorded a new video for the same. </h1>
+<h3> Updated Video link : https://www.loom.com/share/0b2d541792d74f9aadc819e67ed4bc3d </h3>
 <h1>
-    Due to some network issues, the images seems to have corrupted or not uploaded properly. Therefore I have added it below in this readme.
+    Due to some network issues, the images seems to have corrupted or not uploaded properly,like what happened for the video. Therefore I have added it below in this readme.
        
 </h1>
     <img src="/screenshots/Screenshot (12).png" width="300" height="600"> 
