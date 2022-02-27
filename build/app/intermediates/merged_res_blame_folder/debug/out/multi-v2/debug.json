@@ -57,21 +57,6 @@
             ]
         },
         {
-            "outputFile": "D:\\college_application\\build\\app\\intermediates\\res\\merged\\debug\\values-pt_values-pt.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\ritwi\\.gradle\\caches\\transforms-2\\files-2.1\\8ec5a4192b12a309556d408337153575\\core-1.6.0\\res\\values-pt\\values-pt.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "D:\\college_application\\build\\app\\intermediates\\res\\merged\\debug\\values-hi_values-hi.arsc.flat",
             "map": [
                 {
@@ -123,6 +108,21 @@
                         "startOffsets": "1274",
                         "endColumns": "145",
                         "endOffsets": "1415"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\college_application\\build\\app\\intermediates\\res\\merged\\debug\\values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\ritwi\\.gradle\\caches\\transforms-2\\files-2.1\\8ec5a4192b12a309556d408337153575\\core-1.6.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     }
                 }
             ]
