@@ -23,3 +23,12 @@ Application is chosen over a website because an application nowadays is easy to 
 
 </h3>
 
+<h1>
+    Due to some network issues, the images seems to have corrupted or not uploaded properly. Therefore I have added it below in this readme.
+       
+</h1>
+    <img src="/screenshots/Screenshot (12).png" width="300" height="600"> 
+    <img src="/screenshots/Screenshot (13).png" width="300" height="600"> 
+    <img src="/screenshots/Screenshot (14).png" width="300" height="600"> 
+    <img src="/screenshots/Screenshot (15).png" width="300" height="600"> 
+    <img src="/screenshots/Screenshot (16).png" width="300" height="600"> 
