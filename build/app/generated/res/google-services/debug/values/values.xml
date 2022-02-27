@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1085380875958-lcij1aapen40bspos5n6ehk2vp922f1v.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1085380875958</string>
+    <string name="google_api_key" translatable="false">AIzaSyD9-ZSP--7jWnpQ5o0CLch1lcLc2sRJAog</string>
+    <string name="google_app_id" translatable="false">1:1085380875958:android:8e652db4fd09bc02a1b817</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD9-ZSP--7jWnpQ5o0CLch1lcLc2sRJAog</string>
+    <string name="google_storage_bucket" translatable="false">college-app-dd495.appspot.com</string>
+    <string name="project_id" translatable="false">college-app-dd495</string>
+</resources>
