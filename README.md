@@ -1,17 +1,25 @@
-# college_application
+<h3 align="left">
+    Team Collapp
+  
+  Tech Stack Used:
+  - Flutter
+  - Firebase
+  - Android Studio
+  - Visual studio
+  - Photoshop
+  
+  Team Details:  
+  * Team Code : 2b6b69f6f1
+  * Team Name : Collapp
+  * IsFresher : false
+  
+  Description of idea:
+  My proposed solution to the problem statement is to develop an application which would be available for all the students studying in the college and to allow them to view their profile related to their academic journey.
+Teachers can also use this application to update the student records and can also use it to convey important notices.
+Application is chosen over a website because an application nowadays is easy to use as compared to a website which requires a browser and the link of the website whereas an application is just a tap and go feature.
 
-A new Flutter project for college.
+  Video link:
+  https://www.loom.com/share/1b34757499584bd6b4ac2d94234f78ee
 
-## Getting Started
+</h3>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Hackmol3.0-college-application
